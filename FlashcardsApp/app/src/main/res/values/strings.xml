@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Flashcards App</string>
+    <string name="empty_set_string">You do not have any flashcard sets</string>
+    <string name="empty_card_set_string">You do not have any flashcards</string>
+    <string name="card_set_hint_string">Tap on a set to add flashcards!</string>
+    <string name="practice_hint_string">Tap on \'practice\' to study your flashcards!</string>
+    <string name="flashcard_hint_string">Tap on the words to flip the card!</string>
+    <string name="new_set_button">New Set</string>
+    <string name="add_set_button">Add Set</string>
+    <string name="input_set_name">Name</string>
+    <string name="input_front">Front</string>
+    <string name="input_back">Back</string>
+    <string name="new_card_button">New Flashcard</string>
+    <string name="add_card_button">Add Flashcard</string>
+    <string name="practice_button">Practice</string>
+    <string name="prev_button">Previous</string>
+    <string name="next_button">Next</string>
+    <string name="back_button">Back</string>
+</resources>
